@@ -1,6 +1,6 @@
 // Configure the recipient and backend here. Never put private credentials in this file.
 window.JAB_CONFIG = {
-  apiUrl: 'https://script.google.com/macros/s/AKfycbzQn23YlHcDvTOvDvv8cFuhWOT9Po4rWo494PBVilY67reQeHADo1XGHs3SOFBHuACgbg/exec', // Google Apps Script endpoint once built
+  apiUrl: 'https://script.google.com/macros/s/AKfycbyVaNl_yxhxPT8S7AUK1Ynm6e-8dVBWQygdosabL3VVbcTFJmKufuw9pwcM6tPqfe9tow/exec', // Google Apps Script endpoint once built
   recipientName: 'Stephanie Stall', // Current recipient's approved public name
   recipientNote: 'Featured lucky nurse · November 6, 2026',
   recipientVenmoHandle: '@LN938',
